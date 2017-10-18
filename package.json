@@ -8,6 +8,13 @@
   },
   "author": "Jason Laster",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jasonLaster/emoji-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonLaster/emoji-log/issues"
+  },
   "dependencies": {
     "chalk": "^2.2.0",
     "node-emoji": "^1.8.1"
