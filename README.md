@@ -1,8 +1,7 @@
-### :smiley: Emoji Log
+### Hankey :hankey:
 
 
-*A friendly log function so all of you messages are colorful!*
-
+*A friendly library for adding color to your logs :smiley:*
 
 ```js
 const { info, log } = require("./index");

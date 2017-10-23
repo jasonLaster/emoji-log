@@ -1,6 +1,6 @@
 {
-  "name": "emoji-log",
-  "version": "0.0.1",
+  "name": "hankey",
+  "version": "0.0.3",
   "description": "A friendly log function",
   "main": "index.js",
   "scripts": {
